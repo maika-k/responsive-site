@@ -1,0 +1,58 @@
+@import url(https://fonts.googleapis.com/css?family=Abel);
+@media (max-width: 768px) {
+  #header {
+    height: 250px;
+    max-width: 100%; }
+
+  #oosakakankou {
+    max-width: 100%;
+    display: -webkit-flex;
+    display: flex;
+    justify-content: space-between;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    display: block; }
+
+  .text-center {
+    width: 100%;
+    float: none;
+    height: 100%;
+    display: -webkit-flex;
+    display: flex;
+    justify-content: space-between;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    -webkit-flex: 1;
+    flex: 1;
+    margin: 10px 0;
+    padding: 20px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box; }
+
+  .container {
+    width: 100%;
+    float: left;
+    height: 100%;
+    display: -webkit-flex;
+    display: flex;
+    justify-content: space-between;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    float: none;
+    display: block;
+    padding: 25px; }
+
+  #oosakakankou .usj-box {
+    width: 95%; }
+
+  #oosakakankou .doutonbori-box {
+    width: 95%; }
+
+  #oosakakankou .taiyounotou-box {
+    width: 95%; } }
+
+/*# sourceMappingURL=style.css.map */
